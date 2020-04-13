@@ -29,7 +29,7 @@ namespace AtualizarEstoqueAutomatico
                     QueuePollInterval = TimeSpan.FromMinutes(5)
                 };
 
-                config.UseSqlServerStorage("Data Source=andromeda2;Initial Catalog=CosmosPDP; User ID=SYSCOSMOS; Password=COSMOS", options);
+                config.UseSqlServerStorage("StringConexaos", options);
             });
 
             services.AddScoped<IAtualizarEstoqueJob, AtualizarEstoqueJob>();

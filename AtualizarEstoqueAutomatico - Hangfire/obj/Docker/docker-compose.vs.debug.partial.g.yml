@@ -12,8 +12,8 @@ services:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_atualizarestoqueautomatico$
     volumes:
-      - C:\FonteDesenvolvimento\AtualizarEstoqueAutomatico\AtualizarEstoqueAutomatico:/app
-      - C:\FonteDesenvolvimento\AtualizarEstoqueAutomatico:/src
+      - C:\Users\90004569\Desktop\Nova pasta (3)\Hangfire\AtualizarEstoqueAutomatico - Hangfire\AtualizarEstoqueAutomatico:/app
+      - C:\Users\90004569\Desktop\Nova pasta (3)\Hangfire\AtualizarEstoqueAutomatico - Hangfire:/src
       - C:\Users\90004569\vsdbg\vs2017u5:/remote_debugger:rw
 #$nuget_volume_mapping_atualizarestoqueautomatico$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro

@@ -1,7 +1,8 @@
 services:
   atualizarestoqueautomatico:
     build:
-      context: C:\FonteDesenvolvimento\AtualizarEstoqueAutomatico
+      context: C:\Users\90004569\Desktop\Nova pasta (3)\Hangfire\AtualizarEstoqueAutomatico
+        - Hangfire
       dockerfile: AtualizarEstoqueAutomatico/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development

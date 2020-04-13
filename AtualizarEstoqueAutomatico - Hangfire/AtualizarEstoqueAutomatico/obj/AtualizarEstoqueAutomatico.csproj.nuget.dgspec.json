@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FonteDesenvolvimento\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj": {}
+    "C:\\Users\\90004569\\Desktop\\Nova pasta (3)\\Hangfire\\AtualizarEstoqueAutomatico - Hangfire\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj": {}
   },
   "projects": {
-    "C:\\FonteDesenvolvimento\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj": {
+    "C:\\Users\\90004569\\Desktop\\Nova pasta (3)\\Hangfire\\AtualizarEstoqueAutomatico - Hangfire\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FonteDesenvolvimento\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj",
+        "projectUniqueName": "C:\\Users\\90004569\\Desktop\\Nova pasta (3)\\Hangfire\\AtualizarEstoqueAutomatico - Hangfire\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj",
         "projectName": "AtualizarEstoqueAutomatico",
-        "projectPath": "C:\\FonteDesenvolvimento\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj",
+        "projectPath": "C:\\Users\\90004569\\Desktop\\Nova pasta (3)\\Hangfire\\AtualizarEstoqueAutomatico - Hangfire\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico.csproj",
         "packagesPath": "C:\\Users\\90004569\\.nuget\\packages\\",
-        "outputPath": "C:\\FonteDesenvolvimento\\AtualizarEstoqueAutomatico\\AtualizarEstoqueAutomatico\\obj\\",
+        "outputPath": "C:\\Users\\90004569\\Desktop\\Nova pasta (3)\\Hangfire\\AtualizarEstoqueAutomatico - Hangfire\\AtualizarEstoqueAutomatico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
